@@ -25,3 +25,5 @@ Instalar: npm init -y (gerenciador de pacotes)
 Servidor: linguagem Node.JS
 
 Instalar o node: npm install node 
+node --version
+
