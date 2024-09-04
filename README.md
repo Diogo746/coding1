@@ -9,3 +9,17 @@ Anexar gif: copiar endereço de imagem
 Exemplo:
 <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="100px">
 
+Modelos: https://github.com/duduxs
+
+
+
+Bibliotecas - lib
+
+Dependências (dentro da biblioteca)
+
+Frameworks (moldura do código, não pode apagar)
+
+Gerenciador: npm
+
+Servidor: linguagem Node.JS
+
