@@ -20,6 +20,8 @@ Dependências (dentro da biblioteca)
 Frameworks (moldura do código, não pode apagar)
 
 Gerenciador: npm
+Instalar: npm init -y (gerenciador de pacotes)
 
 Servidor: linguagem Node.JS
 
+Instalar o node: npm install node 
