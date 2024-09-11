@@ -53,7 +53,7 @@ let nome = "nome";
 CONST - Não pode ter seu valor reatribuido nem redeclarado.
 const nome = "nome";
 
-String: 
+STRING: 
 Dados idos na forma literal de texto. Aplicação reconhecida apenas em texto. Podemos utilizar números, utilizando sinal de aspas, crase ou apóstrofo no inicio e final.
 
 
