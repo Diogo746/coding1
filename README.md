@@ -35,6 +35,8 @@ console.log("Hello World");
 
 console.log(10+10);
 
+# Resumo - aula 11/09
+
 Rótulo:
 rotulo = "Natalya";
 console.log(rotulo);
@@ -55,5 +57,15 @@ const nome = "nome";
 
 STRING: 
 Dados idos na forma literal de texto. Aplicação reconhecida apenas em texto. Podemos utilizar números, utilizando sinal de aspas, crase ou apóstrofo no inicio e final.
+
+Soma:
+
+const numero1 = 10;
+
+const numero2 = 20;
+
+const soma = numero1 + numero2;
+
+console.log(soma);
 
 
