@@ -28,5 +28,8 @@ Servidor: linguagem Node.JS
 Instalar o node: npm install node 
 node --version
 
-node (nome do arquivo) = executar
+➔ node (nome do arquivo) = executar
 
+console.log("Hello World");
+
+console.log(10+10);
