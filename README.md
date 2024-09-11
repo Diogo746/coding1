@@ -34,7 +34,17 @@ console.log("Hello World");
 
 console.log(10+10);
 
+Rótulo:
 rotulo = "Natalya";
 console.log(rotulo);
 rotulo = 12345;
 console.log(rotulo);
+
+Variavel:
+var nome_da_variavel = "nome";
+
+let nome = "nome";
+
+const nome = "nome";
+
+
