@@ -33,3 +33,8 @@ node --version
 console.log("Hello World");
 
 console.log(10+10);
+
+rotulo = "Natalya";
+console.log(rotulo);
+rotulo = 12345;
+console.log(rotulo);
