@@ -40,11 +40,19 @@ console.log(rotulo);
 rotulo = 12345;
 console.log(rotulo);
 
+➔ Comitar o codigo (desativar as linhas) ➔ /*      */
+
 Variavel:
+VAR - Antiga forma de definir variáveis no javascript. Pode ser reatribuida e redeclarada. 
 var nome_da_variavel = "nome";
 
+LET - Também pode ter seu valor reatribuido mas não pode ser redeclarado.
 let nome = "nome";
 
+CONST - Não pode ter seu valor reatribuido nem redeclarado.
 const nome = "nome";
+
+String: 
+Dados idos na forma literal de texto. Aplicação reconhecida apenas em texto. Podemos utilizar números, utilizando sinal de aspas, crase ou apóstrofo no inicio e final.
 
 
