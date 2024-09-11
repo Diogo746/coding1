@@ -21,6 +21,7 @@ Frameworks (moldura do código, não pode apagar)
 
 Gerenciador: npm
 Instalar: npm init -y (gerenciador de pacotes)
+Desintalar: npm uninstall node
 
 Servidor: linguagem Node.JS
 
