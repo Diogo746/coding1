@@ -29,6 +29,7 @@ Instalar o node: npm install node
 node --version
 
 ➔ node (nome do arquivo) = executar
+ex. node aula.js
 
 console.log("Hello World");
 
