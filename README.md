@@ -150,6 +150,8 @@ Comandos do Git:
 ls
 git status
 git add.
+git restore --stage node_modules
+git commit -m "escrever um comentario"
 
 
 
