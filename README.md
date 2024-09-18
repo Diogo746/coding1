@@ -141,7 +141,20 @@ const div = numero1 / numero2;
 
 console.log(`O resultado da divisão é: ${div}`);
 
-    
+
+#Resumo aula 18/09
+
+
+Comandos do Git:
+
+ls
+git status
+git add.
+
+
+
+
+
 
 
 
