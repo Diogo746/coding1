@@ -147,11 +147,19 @@ console.log(`O resultado da divisão é: ${div}`);
 
 Comandos do Git:
 
-ls
+ls  (listar arquivos)
 git status
-git add.
+git add .   ou git nomedoarquivo.js
 git restore --stage node_modules
 git commit -m "escrever um comentario"
+
+git pull --no-rebase origin main
+git push origin main  (primeira push)
+git push
+
+Em caso de problema:
+git push -f origin main
+
 
 
 
