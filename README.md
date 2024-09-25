@@ -166,8 +166,9 @@ git push -f origin main
 VS CODE
 
 git config --global user.name "nome de usuario do github"
+git config --global user.email "email usado no github"
 
-
+git clone "https://github.com/Diogo746/coding1.git"
 
 
 
