@@ -168,10 +168,18 @@ VS CODE
 git config --global user.name "nome de usuario do github"
 git config --global user.email "email usado no github"
 
-git clone "https://github.com/Diogo746/coding1.git"
+-- clonar o github com o vs code
+git clone "https://github.com/Diogo746/coding1.git" (colar link com shift + insert)
 
+git add .
 
+git commit -m "update"
 
+git init
+
+git push origin main
+
+git push -f origin main (forçar em caso de erro)
 
 
 
