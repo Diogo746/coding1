@@ -160,6 +160,13 @@ git push
 Em caso de problema:
 git push -f origin main
 
+# Resumo aula 25/09
+
+
+VS CODE
+
+git config --global user.name "nome de usuario do github"
+
 
 
 
