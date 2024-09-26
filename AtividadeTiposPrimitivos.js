@@ -26,6 +26,12 @@ console.log(`O resultado da multiplicação é: ${mult}`);
 const div = numero1 / numero2;
 console.log(`O resultado da divisão é: ${div}`);
 
+// Calcudo da área do triângulo
+
+const base = 8;
+const altura = 15;
+const area = base * altura / 2
+console.log (`A área do triângulo é: ${area} cm`);
 
 // Média
 
@@ -34,3 +40,4 @@ const nota2 = 7;
 const nota3 = 5;
 const media = (nota1 + nota2+ nota3)/3;
 console.log(`O resultado da média é ${media}`);
+
