@@ -43,5 +43,17 @@ const div = numero1 / numero2;
 
 console.log(`O resultado da divisão é: ${div}`);
 
+
+
+// Solicita ao usuário que insira a base e a altura
+const base = parseFloat(prompt("Digite a base do triângulo em cm:"));
+const altura = parseFloat(prompt("Digite a altura do triângulo em cm:"));
+
+// Calcula a área
+const area = (base * altura) / 2;
+
+// Exibe o resultado
+console.log(`A área do triângulo é ${area} cm²`);
+
     
 
