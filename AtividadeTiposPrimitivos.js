@@ -1,15 +1,15 @@
 // Nome e idade
 
 
-let nome = "Diogo";
+const nome = "Diogo";
 console.log("Meu nome é " + nome);
-let idade = "31";
+const idade = "31";
 console.log("Tenho " + idade +" anos");
 
 // Cidade
 
-let nome = "Diogo";
-let cidade = "Recife";
+const nome = "Diogo";
+const cidade = "Recife";
 
 console.log(`Meu nome é ${nome} e sou de ${cidade}`);
 
