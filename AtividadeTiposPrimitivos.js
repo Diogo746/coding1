@@ -56,5 +56,15 @@ const aliquota = 0.15;
 const imposto = salario * aliquota 
 console.log(`O imposto a ser pago é de R$ ${imposto}`);
 
+// Conversor de moedas (dolar = 5,44 reais)
+
+const real = 100;
+const dolar = 5.44;
+const conv = real * dolar
+console.log(`Na cotação atual, seus 100 reais valem ${conv} dólares americanos`);
+
+// Conversor de Celsius para Fahrenheit
+
+
 
 
