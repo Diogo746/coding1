@@ -65,6 +65,12 @@ console.log(`Na cotação atual, seus 100 reais valem ${conv} dólares americano
 
 // Conversor de Celsius para Fahrenheit
 
+const cel = 28;
+const far = (cel * 9 / 5) + 32;
+console.log(`28° Celsius são ${far} Fahrenheit`);
+
+// Calculadora de IMC
+
 
 
 
