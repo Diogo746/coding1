@@ -49,3 +49,12 @@ const desconto = (valororiginal * percentualdesconto / 100);
 const preco = (valororiginal - desconto);
 console.log(`O valor do produto com desconto é: ${preco}`);
 
+// Imposto de renda
+
+const salario = 3000;
+const aliquota = 0.15;
+const imposto = salario * aliquota 
+console.log(`O imposto a ser pago é de R$ ${imposto}`);
+
+
+
