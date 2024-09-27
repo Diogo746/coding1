@@ -74,7 +74,6 @@ console.log(`28° Celsius são ${far} Fahrenheit`);
 const peso = 80;
 const altura = 1.80;
 const imc = peso / (altura * altura);
-console.log(`O IMC é ${imc}. Seu peso está normal.`);
-
+console.log(`O IMC é ${imc.toFixed(2)}. Seu peso está normal`);
 
 
