@@ -71,6 +71,10 @@ console.log(`28° Celsius são ${far} Fahrenheit`);
 
 // Calculadora de IMC
 
+const peso = 80;
+const altura = 1.80;
+const imc = peso / (altura * altura);
+console.log(`O IMC é ${imc}. Seu peso está normal.`);
 
 
 
