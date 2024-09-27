@@ -41,3 +41,11 @@ const nota3 = 5;
 const media = (nota1 + nota2+ nota3)/3;
 console.log(`O resultado da média é ${media}`);
 
+// Desconto
+
+const valororiginal = 100;
+const percentualdesconto = 20;
+const desconto = (valororiginal * percentualdesconto / 100);
+const preco = (valororiginal - desconto);
+console.log(`O valor do produto com desconto é: ${preco}`);
+
