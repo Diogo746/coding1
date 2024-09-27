@@ -1,6 +1,5 @@
 // Nome e idade
 
-
 const nome = "Diogo";
 console.log("Meu nome é " + nome);
 const idade = "31";
