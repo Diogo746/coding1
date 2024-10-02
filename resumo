@@ -205,3 +205,15 @@ if (portaAberta == true) {
 else {
   console.log("A lâmpada está apagada");
 }
+
+--
+
+let escolha = prompt("Escolha: 1, para abrir a porta e 2, para fechar a porta")
+
+if (escolha == 1) {
+  console.log("A lâmpada está acesa");
+}
+
+else {
+  console.log("A lâmpada está apagada");
+}
