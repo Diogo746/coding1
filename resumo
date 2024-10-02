@@ -195,3 +195,13 @@ git push -f origin main (forçar em caso de erro)
 !== diferente
 != diferente
 
+  --
+let portaAberta = true;
+
+if (portaAberta == true) {
+  console.log("A lâmpada está acesa");
+}
+
+else {
+  console.log("A lâmpada está apagada");
+}
