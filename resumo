@@ -243,3 +243,17 @@ if (escolha == 1) {
   console.log("Opção não válida");
 }
 
+--
+
+let escolha = prompt("Olá, como posso te ajudar? Digite 1, para marcar uma consulta, 2, para retirada de exames ou 3 para falar com uma atendente")
+
+if (escolha == 1) {
+  console.log("Um email foi enviado com a relação de médicos");
+} else if (escolha == 2 ) {
+  console.log("Nosso horário de funcionamento é das 07:00 às 17:00 na Avenida xxxxx, número xx");
+} else if (escolha == 3) {
+  console.log("Um atendente entrará em contato por telefone com você")
+} else {
+  console.log("Opção não válida");
+}
+
