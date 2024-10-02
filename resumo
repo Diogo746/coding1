@@ -184,6 +184,8 @@ git push -f origin main (forçar em caso de erro)
 
 #Resumo aula 02/10
 
+-- Operadores de Comparação
+
 == igual
 === igual
 > maior que
