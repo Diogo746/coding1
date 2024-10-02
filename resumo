@@ -180,3 +180,16 @@ git init
 git push origin main
 
 git push -f origin main (forçar em caso de erro)
+
+
+#Resumo aula 02/10
+
+== igual
+=== igual
+> maior que
+< menor que
+>= maior igual a
+<= menor igual a
+!== diferente
+!= diferente
+
