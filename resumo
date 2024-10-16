@@ -274,6 +274,19 @@ console.log(livros[0]);
 console.log(livros[1]);
 console.log(livros[2]);
 
+//consulta por nome do elemento
 
+let consulta = livros.indexOf("O Iluminado")
+console.log(consulta)
+
+//remover o ultimo elemento 
+
+livros.pop()
+
+console.log(livros.pop());
+
+// adiciona elementos no final da array e mostra a quantidade do array
+
+console.log(livros.push("novoLivro"));
 
 
