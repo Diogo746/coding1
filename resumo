@@ -290,3 +290,18 @@ console.log(livros.pop());
 console.log(livros.push("novoLivro"));
 
 
+
+
+const livros = ["O Iluminado", "Harry Potter e a Câmara Secreta", "O Senhor dos Anéis, o Retorno do Rei"];
+
+livros.pop();
+
+console.log(livros);
+
+console.log(livros.push("O Cemitério"));
+
+console.log(livros);
+
+
+
+
