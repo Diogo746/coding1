@@ -266,3 +266,12 @@ const livros = ["Javascript Asserivo", "Harry Potter e a cãmara secreta", "O se
 
 Posição na array começa com zero: 0, 1, 2, ...
 
+const livros = ["O Iluminado", "Harry Potter e a Câmara Secreta", "O Senhor dos Anéis, o Retorno do Rei"];
+
+console.log(livros[0]);
+console.log(livros[1]);
+console.log(livros[2]);
+
+
+
+
