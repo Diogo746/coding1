@@ -314,6 +314,31 @@ console.log(livros.push(inserir))
 console.log(livros)
 
 
+-- Para contar quantos elementos tem um array apenas inserimos ". length" depois que chamamos o nome do array
+
+const frutas = ["Morango", "Limão", "Maçã", "Maracujá", "Graviola", "Uva", "Acerola", "Melão"];
+
+console.log(`O estoque atual de frutas no estoque é: ${frutas}`);
+
+console.log(`Estoque atual: ${frutas.length}`);
+
+remover a última fruta
+
+console.log(frutas.pop());
+console.log(frutas);
+
+adicionar uma nova fruta
+
+console.log(frutas.push("Melancia"));
+console.log(frutas);
+
+
+let novafruta = prompt("Insira uma nova fruta:");
+console.log(frutas.push(novafruta));
+console.log(`O estoque de frutas foi atualizado com sucesso! Frutas disponíveis: ${frutas}`);
+console.log(`Estoque atual: ${frutas.length}`)
+
+
 
 
 
