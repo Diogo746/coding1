@@ -337,7 +337,7 @@ let novafruta = prompt("Insira uma nova fruta:");
 console.log(frutas.push(novafruta));
 console.log(`O estoque de frutas foi atualizado com sucesso! Frutas disponíveis: ${frutas}`);
 console.log(`Estoque atual: ${frutas.length}`)
-
+console.log(`Estoque atual: ${frutas.length}. O estoque de frutas foi atualizado com sucesso! Frutas disponíveis: ${frutas}`)
 
 
 
