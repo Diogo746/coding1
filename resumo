@@ -305,3 +305,16 @@ console.log(livros);
 
 
 
+
+const livros = ["O Iluminado", "Harry Potter e a Câmara Secreta", "O Senhor dos Anéis, o Retorno do Rei"];
+
+let inserir = prompt("Digite o livro para inserir:")
+
+console.log(livros.push(inserir))
+console.log(livros)
+
+
+
+
+
+
