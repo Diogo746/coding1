@@ -257,3 +257,10 @@ if (escolha == 1) {
   console.log("Opção não válida");
 }
 
+
+# Aula 16/10
+
+//Array
+
+const livros = ["Javascript Asserivo", "Harry Potter e a cãmara secreta", "O senhor dos anéis, o retorno do rei"]
+
