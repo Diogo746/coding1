@@ -422,3 +422,18 @@ function calcularMedia(notas) {
 console.log("A média é: " + calcularMedia(notas));
 
 
+
+
+
+
+const notas = [5, 9, 10, 3, 7]
+
+function resultado (notas) {
+  let media = (notas[0] + notas[1] + notas[2] + notas[3] + notas[4]) / notas.length
+  return media
+}
+
+console.log(`O resultado da média é ${resultado (notas)}`)
+
+
+
