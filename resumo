@@ -368,3 +368,15 @@ function dobro(num) {
 console.log(dobro(4));
 
 
+
+
+
+function calcularMedia(nota1, nota2, nota3) {
+  const soma = (nota1 + nota2 + nota3)
+  const media = soma/3
+  return media.toFixed(1)
+}
+
+console.log(calcularMedia(6,7,9));
+
+
