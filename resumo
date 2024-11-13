@@ -380,3 +380,20 @@ function calcularMedia(nota1, nota2, nota3) {
 console.log(calcularMedia(6,7,9));
 
 
+
+
+
+
+function mediaMateria(prova, redacao) {
+  return (prova+redacao)/2
+}
+
+let prova = parseFloat(prompt("Insira a nota da prova"));
+let redacao = parseFloat(prompt("Insira a nota da redação"));
+
+alert("A média é: " + mediaMateria(prova, redacao));
+
+
+
+
+
