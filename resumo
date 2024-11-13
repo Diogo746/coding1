@@ -397,3 +397,13 @@ alert("A média é: " + mediaMateria(prova, redacao));
 
 
 
+function ordenar(a, b) {
+  if (a <= b) {
+    return [a, b]
+  } else {
+    return [b, a]
+  }
+}
+
+console.log(ordenar(5,1));
+
