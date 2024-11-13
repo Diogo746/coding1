@@ -350,6 +350,8 @@ console.log(`O estoque de frutas foi atualizado com sucesso! Frutas disponíveis
 
 Function
 
+```javascript
+
 function mediaMateria(prova, recacao) {
   return (prova+redacao)/2
 }
