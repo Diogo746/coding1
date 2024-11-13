@@ -407,3 +407,18 @@ function ordenar(a, b) {
 
 console.log(ordenar(5,1));
 
+
+
+
+
+
+let notas = [8, 7, 9, 6, 10]
+
+function calcularMedia(notas) {
+  let media = (notas[0] + notas[1] + notas[2] + notas[3] + notas[4]) / 5;
+  return media
+}
+
+console.log("A média é: " + calcularMedia(notas));
+
+
