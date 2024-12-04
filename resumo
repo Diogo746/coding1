@@ -486,7 +486,7 @@ function adicionar() {
 const chave = prompt("Informe a chave: ")
 const valor = prompt("Informe o valor: ")
 
-estudante.chave = valor
+estudante[chave] = valor
   return `Você inseriu os dados com sucesso! Os dados atualizados são: ${estudante.chave}`
 }
 
