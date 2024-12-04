@@ -509,6 +509,6 @@ delete estudante.matricula; //notação de ponto
 console.log(estudante);
 
 delete estudante["idade"]; //notação de array
-comsole.log(estudante); 
+console.log(estudante); 
 
 
