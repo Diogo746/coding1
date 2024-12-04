@@ -437,3 +437,19 @@ console.log(`O resultado da média é ${resultado (notas)}`)
 
 
 
+
+#Aula 04/12
+
+Objetos
+
+
+
+
+const estudante = {
+  nome: "Diogo",
+  idade: 32,
+  matricula: "123456789",
+}
+
+
+
