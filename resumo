@@ -10,8 +10,9 @@ Exemplo:
 <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="100px">
 
 Modelos: https://github.com/duduxs
+--------------------
 
-
+Usando o workspace do GitHub: 
 
 Bibliotecas - lib
 
@@ -34,10 +35,13 @@ ex. node aula.js
 console.log("Hello World");
 
 console.log(10+10);
+----------------------
+
 
 # Resumo - aula 11/09
 
-Rótulo:
+Rótulo: palavra-chave usada para associar um nome a um ponto específico de um código.
+
 rotulo = "Natalya";
 console.log(rotulo);
 rotulo = 12345;
@@ -45,7 +49,8 @@ console.log(rotulo);
 
 ➔ Comitar o codigo (desativar as linhas) ➔ /*      */
 
-Variavel:
+Variavel: um espaço na memória onde você pode armazenar dados, como números, texto ou objetos. As variáveis podem ser criadas usando as palavras-chave 
+
 VAR - Antiga forma de definir variáveis no javascript. Pode ser reatribuida e redeclarada. 
 var nome_da_variavel = "nome";
 
@@ -55,8 +60,8 @@ let nome = "nome";
 CONST - Não pode ter seu valor reatribuido nem redeclarado.
 const nome = "nome";
 
-STRING: 
-Dados idos na forma literal de texto. Aplicação reconhecida apenas em texto. Podemos utilizar números, utilizando sinal de aspas, crase ou apóstrofo no inicio e final.
+STRING: é um tipo de dado que representa uma sequência de caracteres, como palavras ou frases.
+Dados lidos na forma literal de texto. Aplicação reconhecida apenas em texto. Podemos utilizar números, utilizando sinal de aspas, crase ou apóstrofo no inicio e final.
 
 Soma:
 
@@ -141,11 +146,12 @@ const div = numero1 / numero2;
 
 console.log(`O resultado da divisão é: ${div}`);
 
+------------------------------------
 
 #Resumo aula 18/09
 
 
-Comandos do Git:
+Comandos do GitHub:
 
 ls  (listar arquivos)
 git status
@@ -160,10 +166,14 @@ git push
 Em caso de problema:
 git push -f origin main
 
+-----------------------------
+
 # Resumo aula 25/09
 
 
 VS CODE
+
+Atalhos do VsCode:
 
 git config --global user.name "nome de usuario do github"
 git config --global user.email "email usado no github"
@@ -181,6 +191,7 @@ git push origin main
 
 git push -f origin main (forçar em caso de erro)
 
+-------------------
 
 #Resumo aula 02/10
 
@@ -257,10 +268,16 @@ if (escolha == 1) {
   console.log("Opção não válida");
 }
 
+---------------------------
 
 # Aula 16/10
 
-//Array
+Array:
+
+É um tipo de dado que pode armazenar uma lista de valores, que podem ser de tipos diferentes
+(como números, strings, objetos, etc.). Os arrays são ordenados e os valores são acessados por índices, começando do índice 0.
+
+
 
 const livros = ["Javascript Asserivo", "Harry Potter e a cãmara secreta", "O senhor dos anéis, o retorno do rei"]
 
@@ -343,12 +360,14 @@ let novafruta = prompt("Insira uma nova fruta:");
 console.log(frutas.push(novafruta));
 console.log(`O estoque de frutas foi atualizado com sucesso! Frutas disponíveis: ${frutas}.Estoque atual: ${frutas.length}`)
 
-
+------------------------
 
 
 #Aula 13/11
 
-Function
+Function: É um bloco de código projetado para realizar uma tarefa específica. 
+Pode-se definir funções para reutilizar código, tornando-o mais organizado e modular.
+
 
 
 function mediaMateria(prova, redacao) {
@@ -436,11 +455,15 @@ function resultado (notas) {
 console.log(`O resultado da média é ${resultado (notas)}`)
 
 
-
+-----------------------
 
 #Aula 04/12
 
-Objetos
+Objetos:
+
+É uma coleção de pares chave-valor (ou propriedades) que pode armazenar dados de diferentes tipos. 
+Objetos são úteis para representar entidades e suas características. 
+As chaves (ou propriedades) de um objeto são sempre strings, e os valores podem ser de qualquer tipo (números, strings, arrays, funções, etc.).
 
 
 
